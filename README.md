@@ -1,4 +1,9 @@
-# astra-cli
+# (Deprecated) astra-cli
+
+> [!WARNING]  
+> This repository is no longer maintained, and has been succeeded by **https://github.com/datastax/astra-cli**
+>
+> Learn more here: https://docs.datastax.com/en/astra-cli
 
 Apache 2.0 licensed Astra Cloud Management CLI 
 
